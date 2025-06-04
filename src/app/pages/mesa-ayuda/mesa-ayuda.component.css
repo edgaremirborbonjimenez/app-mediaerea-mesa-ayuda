@@ -1,0 +1,25 @@
+mat-card {
+  max-width: 1200px;
+  width: 100%;
+  margin: 32px auto;
+  display: block;
+}
+
+table {
+  width: 100%;
+}
+
+.boton-agregar-ticket {
+  height: 56px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 24px;
+  background: linear-gradient(90deg, #ff9800 0%, #ff4081 100%);
+  color: #fff;
+  box-shadow: 0 4px 16px rgba(255, 64, 129, 0.2);
+  border-radius: 8px;
+  letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
